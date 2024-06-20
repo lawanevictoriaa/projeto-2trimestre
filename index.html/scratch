@@ -1,0 +1,45 @@
+const caixaPergunta=document.queryselector("caixa-principal");
+const caixaPergunta=document.queryselector("caixa-pergunta");
+const caixaAuternativas=documente.queryselector("caixa-alternativa");
+const caixaResultado=document.queryselector("caixa-resultado");
+const caixaResultado=document.queryselector("texto-resultado");
+const Pergunta [
+
+    const perguntas = [
+        {
+            enunciado: "Os conceitos de preservação e conservação do meio ambiente são muitas vezes confundidos ou utilizados como sinônimos. Embora ambos estejam relacionados à proteção ambiental, são diferentes em sua essência.",
+            alternativas: [
+                "a) Preservação ambiental: proteção integral de um ecossistema, vegetação ou bioma das ações humanas. Conservação ambiental: proteção da natureza mediante a utilização e o manejo racional de seus recursos.",
+                "b)Preservação ambiental: garantia dos recursos pelo seu uso controlado. Conservação ambiental: proteção dos recursos pela limitação e escolha do que pode ser utilizado pelos seres humanos."
+            ]
+        },
+        {
+            enunciado: "O aquecimento global é o problema ambiental mais preocupante, estudado e discutido na atualidade. A possibilidade de aumento nas temperaturas médias do planeta, além dos padrões normais, acarretará diversos outros impactos pela superfície terrestre.",
+            alternativas: [
+                "a)Compactação dos solos",
+                "b)Intensificação dos ciclones e furacões."
+            ]
+        },
+        {
+            enunciado: "",
+            alternativas: [
+                "Alternativa 1",
+                "Alternativa 2"
+            ]
+        },
+        {
+            enunciado: "Pergunta 4",
+            alternativas: [
+                "Alternativa 1",
+                "Alternativa 2"
+            ]
+        },
+        {
+            enunciado: "Pergunta 5",
+            alternativas: [
+                "Alternativa 1",
+                "Alternativa 2"
+            ]
+        }
+    ];
+  
